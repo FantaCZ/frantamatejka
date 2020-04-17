@@ -10,7 +10,7 @@ $b = 2;
 $pravda = true;        //boolean 
 $jméno = "Lindemann";  //string
 $desetine = 10.5;      //float
-$cislo = 2;            //string
+$normalni = 2;            //string
 
 
 
