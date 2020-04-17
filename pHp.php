@@ -10,7 +10,7 @@ $b = 2;
 $pravda = true;        //boolean 
 $jméno = "Lindemann";  //string
 $desetine = 10.5;      //float
-$normalni = 2;            //string
+$normalni = 2;         //string
 
 
 
@@ -22,7 +22,12 @@ echo '<br>';
 echo "<strong>sabaton</strong>";
 
 var_dump($a+$b);
-var_dump($a == $b);
+var_dump($a-$b);
+var_dump($a/$b);
+var_dump($a*$b);
+
+
+
 
 
 
