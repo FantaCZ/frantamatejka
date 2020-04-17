@@ -7,6 +7,7 @@ $b = 2;
 
 
 
+
 $pravda = true;        //boolean 
 $jméno = "Lindemann";  //string
 $desetine = 10.5;      //float
@@ -21,13 +22,43 @@ echo $data;
 echo '<br>';
 echo "<strong>sabaton</strong>";
 
+
+
+
+echo "<br><br><br>";
+
+
+echo '<img src="/pw-image.jpeg">';
+
+
 var_dump($a+$b);
 var_dump($a-$b);
 var_dump($a/$b);
 var_dump($a*$b);
 
+echo '<br><br>';
 
+var_dump($a++);
+var_dump($a--);
+var_dump($a+=$b);
+var_dump($a-=$b);
+var_dump($a*=$b);
+var_dump($a/=$b);
 
+echo "<br><br>";
+
+var_dump($a == $b);
+var_dump($a != $b);
+var_dump($a>$b);
+var_dump($a<$b);
+
+echo '<br><br>';
+
+var_dump($a||$b);
+var_dump($a && $b);
+var_dump(!$a);
+
+echo '<br>';
 
 
 
