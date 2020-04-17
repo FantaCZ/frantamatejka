@@ -25,11 +25,17 @@ echo "<strong>sabaton</strong>";
 
 
 
-echo "<br><br><br>";
+
+
+echo "<br><br>";
 
 
 echo '<img src="/pw-image.jpeg">';
 
+echo'<br><br><br><br>';
+var_dump($a+$b);   //priklad spojovani retezcu
+
+echo '<br><br>';
 
 var_dump($a+$b);
 var_dump($a-$b);
