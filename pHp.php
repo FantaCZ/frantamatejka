@@ -30,7 +30,7 @@ echo "<strong>sabaton</strong>";
 echo "<br><br>";
 
 
-echo '<img src="/pw-image.jpeg">'; //obrazek
+echo '<img src="pw-image.jpeg" width="650px">'; //obrazek
 
 echo'<br><br><br><br>';
 
