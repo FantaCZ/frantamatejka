@@ -1,7 +1,7 @@
 <?php
 
 
-//napojeni IDE na github 
+//napojeni IDE na githuby 
 
 ?>
 
