@@ -1,7 +1,16 @@
 <?php
 
 
-//napojeni IDE na githuby 
+        
+        
+include ('\wamp64\index.php');
+
+
+use Tracy\Debugger;
+
+Debugger::enable()
+        
+dump($nevim);     
 
 ?>
 
